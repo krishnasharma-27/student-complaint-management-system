@@ -1,4 +1,4 @@
-import streamlit as s
+import streamlit as st
 import database as db
 
 st.set_page_config(page_title="Student Complaint System", page_icon="🎓", layout="wide")
